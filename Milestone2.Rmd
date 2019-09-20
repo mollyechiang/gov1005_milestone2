@@ -15,5 +15,9 @@ This project is by Shaffi Rubbani from Spring 2019. This project was great to ex
 
 However, there were some parts of the website I thought could be improved. Although I liked the color on the summary page I think some text may have been helpful to give a little bit of background on the data and project, especially since there are both graphs and tables. I also thought the transplant proportions tables, although very informative, may have been able to be displayed in some other way. Overall, this was great and very interesting project!
 
-## Second Project: 
+## Second Project: Corruption in Latin America
+
+This project is by Igor Morzan from Spring 2019. I really enjoyed this project and its website. I loved the overview page which I thought had a good level of text to support the data and a super awesome interactive map! The map was so cool to play with and I liked that clicking the country name brought you to another website that could give you more information about corruption in that country. I also loved the CPI Graphs tab. I loved the overall colors and theme/vibe of the graphs and thought they were very easily navigable.
+
+There were some aspects of the project that were not totally clear/user friendly. I thought the table page was a bit overwhelming to look at data from so many years all at once (the table even went beyond the size of my screen). Also a small thing but the title Corruption in Latin America changed color when you put your mouse over it, as if it was a button, but clicking on it did nothing. In the end, this was a really well done project and I learned a lot just from playing around on the website.  
 
