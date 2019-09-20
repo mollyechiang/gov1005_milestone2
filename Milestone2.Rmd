@@ -1,0 +1,19 @@
+---
+title: "Milestone 2"
+author: "Molly Chiang"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## First Project: Organ Donations and Transplants
+
+This project is by Shaffi Rubbani from Spring 2019. This project was great to explore and had many positive aspects. I really liked the use of color on the summary page and thought the website overall was very easy to navigate. Something I especially liked was the functional panels on the sides of Donation rates, Transplant rates, and Transplant proportions pages. I thought the drop down menus were very easy to understand and very useful, and really liked the ability to put multiple countries on the bar to easily compare data between countries. 
+
+However, there were some parts of the website I thought could be improved. Although I liked the color on the summary page I think some text may have been helpful to give a little bit of background on the data and project, especially since there are both graphs and tables. I also thought the transplant proportions tables, although very informative, may have been able to be displayed in some other way. Overall, this was great and very interesting project!
+
+## Second Project: 
+
